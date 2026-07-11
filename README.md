@@ -4,25 +4,29 @@
 
 #### 핵심 영역
 
-**🔎 소프트웨어 공급망 / SBOM** — FOSSLight, SPDX 오픈소스 라이선스 컴플라이언스 (실무 경험)
+**🔎 소프트웨어 공급망 / SBOM** — FOSSLight, SPDX, Syft·Trivy·Dependency-Track, 오픈소스 라이선스 컴플라이언스 (실무 경험)
 
 **🛠 QA / 릴리스 엔지니어링** — CI/CD(Jenkins), 멀티플랫폼 빌드·배포(Windows·Android·iOS·macOS·Linux), 코드 서명, 엔터프라이즈 UI 프레임워크(Nexacro)
 
 **🤖 AI / LLM 자동화** — LLM 에이전트, Selenium + MCP 기반 RPA, GPT·Gemini·Claude API
 
+**📄 직무발명(특허):** SmartUxAPI — 화면 컨텍스트를 학습해 자연어 프롬프트로 UI 자동화를 생성하는 AI
+
 #### 대표 프로젝트
 
-**[smart-ux-api](https://github.com/kiunsea/smart-ux-api)** — AI 기반 UI 자동화 정의 생성기
-
-**[jinieboxes](https://github.com/kiunsea/jinieboxes)** — 지니박스 공개 클론 (AGPL-3.0)
-
-**[jangbogo](https://github.com/kiunsea/jangbogo)** — 구매정보 자동 수집기 (LLM + Selenium)
-
-**[omnibuscode-utils](https://github.com/kiunsea/omnibuscode-utils)** — Java 유틸리티 모음
+| 저장소 | 설명 |
+| --- | --- |
+| [smart-ux-api](https://github.com/kiunsea/smart-ux-api) | AI 기반 UI 자동화 정의 생성기 (직무발명) |
+| [jangbogo](https://github.com/kiunsea/jangbogo) | 구매정보 자동 수집기 (LLM + Selenium) |
+| [ifonly.muse](https://github.com/kiunsea/ifonly.muse) | if-only Echo 서비스용 컴패니언 에이전트 |
+| [jinieboxes](https://github.com/kiunsea/jinieboxes) | 지니박스 공개 클론 (AGPL-3.0) |
+| [omnibuscode-utils](https://github.com/kiunsea/omnibuscode-utils) | Java 유틸리티 모음 |
 
 #### 기록
 
 기술 블로그 (AI 전환기): https://kiunsea.tistory.com
+
+개인 기록: https://otonapoi.tistory.com
 
 지식 아카이브: https://www.omnibuscode.com
 
