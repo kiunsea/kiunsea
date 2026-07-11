@@ -4,11 +4,11 @@
 
 #### 핵심 영역
 
-**🔎 소프트웨어 공급망 / SBOM** — FOSSLight, SPDX 오픈소스 라이선스 컴플라이언스 (실무 경험)
-
-**🛠 QA / 릴리스 엔지니어링** — CI/CD(Jenkins), 멀티플랫폼 빌드·배포(Windows·Android·iOS·macOS·Linux), 코드 서명, 엔터프라이즈 UI 프레임워크(Nexacro)
-
-**🤖 AI / LLM 자동화** — LLM 에이전트, Selenium + MCP 기반 RPA, GPT·Gemini·Claude API
+| 영역 | 내용 |
+| --- | --- |
+| 🔎 **소프트웨어 공급망 / SBOM** | FOSSLight, SPDX 오픈소스 라이선스 컴플라이언스 (실무 경험) |
+| 🛠 **QA / 릴리스 엔지니어링** | CI/CD(Jenkins), 멀티플랫폼 빌드·배포(Windows·Android·iOS·macOS·Linux), 코드 서명, 엔터프라이즈 UI 프레임워크(Nexacro) |
+| 🤖 **AI / LLM 자동화** | LLM 에이전트, Selenium + MCP 기반 RPA, GPT·Gemini·Claude API |
 
 #### 대표 프로젝트
 
